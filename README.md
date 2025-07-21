@@ -2,7 +2,7 @@
 Deep Learning-Based Binary Classification Model
 
 ## Overview  
-This project is a deep learning-based image classifier designed to detect skin cancer from lesion images using Convolutional Neural Networks (CNNs). It provides a streamlined approach to preprocess image data, train a CNN, and perform predictions on new inputs.
+A deep learning-powered web application built with Keras, Streamlit, and Ngrok to detect Skin Cancer from skin lesion images. This tool enables real-time prediction of whether an uploaded image shows signs of cancer or not.
 
 ## Features  
 Model Building  
